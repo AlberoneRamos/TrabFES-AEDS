@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510611890 source:c:\users\1092478\downloads\trab\trabfes-aeds\main.c
+	<locale.h>
+	"lib/menu.h"
+
+1510611887 c:\users\1092478\downloads\trab\trabfes-aeds\lib\menu.h
+	<stdio.h>
+	<stdlib.h>
+
