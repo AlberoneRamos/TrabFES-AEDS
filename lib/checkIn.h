@@ -1,20 +1,10 @@
-#ifndef CHECKING_H_INCLUDED
-#define CHECKING_H_INCLUDED
-#include <string>
-using std::string;
-
-typedef struct reserva {
-          string CPF;
-          string data;
-} TIPO_RESERVA;
+#include <string.h>
 
 // Pede o endereço de um struct do tipo TIPO_RESERVA, uma string cpf e uma string data
-void checkIn(TIPO_RESERVA* reserva, string cpf, string data){
-    reserva->CPF = cpf;
-    reserva->data = data;
-}
+void checkIn(quartos* quarto, char *cpf);
 
-#endif // CHECKING_H_INCLUDED
+#endif
+// CHECKING_H_INCLUDED
 
 /* descomente para testar a função
 
