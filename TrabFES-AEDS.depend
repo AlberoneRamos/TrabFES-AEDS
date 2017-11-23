@@ -7,3 +7,21 @@
 	<stdio.h>
 	<stdlib.h>
 
+1511476302 source:c:\users\1098525\downloads\trabfes-aeds\main.c
+	<locale.h>
+	"lib/menu.h"
+	"lib/geradorCpf.h"
+
+1511473140 c:\users\1098525\downloads\trabfes-aeds\lib\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1511476284 source:c:\users\1098525\downloads\trabfes-aeds\lib\geradorcpf.c
+	"geradorCpf.h"
+
+1511476182 c:\users\1098525\downloads\trabfes-aeds\lib\geradorcpf.h
+	<string.h>
+
+1511473140 source:c:\users\1098525\downloads\trabfes-aeds\lib\menu.c
+	"menu.h"
+
