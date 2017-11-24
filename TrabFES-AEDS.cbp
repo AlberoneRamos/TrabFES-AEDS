@@ -31,6 +31,43 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="lib/book.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/book.h" />
+		<Unit filename="lib/checkIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/checkIN.h" />
+		<Unit filename="lib/checkOUT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/checkOUT.h" />
+		<Unit filename="lib/consult.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/consult.h" />
+		<Unit filename="lib/cpfGen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/cpfGen.h" />
+		<Unit filename="lib/draw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/draw.h" />
+		<Unit filename="lib/geradorCpf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/geradorCpf.h" />
+		<Unit filename="lib/hotel.h" />
+		<Unit filename="lib/init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/init.h" />
+		<Unit filename="lib/menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/menu.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
